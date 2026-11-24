@@ -1,0 +1,7 @@
+[
+ { "id": "V01", "text": "We'll file your UK student visa. Free.", "voice": "bf_emma", "speed": 1.0 },
+ { "id": "V02", "text": "Follow us. Comment your target uni or city. Done.", "voice": "bf_emma", "speed": 1.05 },
+ { "id": "V03", "text": "Full terms are on screen.", "voice": "bf_emma", "speed": 1.0 },
+ { "id": "V04", "text": "Save this, and follow at elsewhereedu.", "voice": "bf_emma", "speed": 1.0,
+   "asr": "Save this, and follow at Elsewhere EDU." }
+]

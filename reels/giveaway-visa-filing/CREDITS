@@ -1,0 +1,32 @@
+giveaway-visa-filing — "Free UK visa filing — enter to win" (promo/giveaway Reel)
+Series look: The Rule Nobody Tells You (@elsewhereedu). TRA-161 shared template, reused for this promo.
+
+Fonts (OFL, see fonts/OFL-*.txt):
+  Newsreader — https://github.com/google/fonts/tree/main/ofl/newsreader
+  Caveat — https://github.com/google/fonts/tree/main/ofl/caveat
+  IBM Plex Mono — https://github.com/google/fonts/tree/main/ofl/ibmplexmono
+  (all copied from films/rule-ep1-visa-refusals/fonts, already vetted in this repository)
+
+Voice: Kokoro (kokoro-onnx), voice "bf_emma" (British female), offline, bundled with this library
+  (core/tts/tts.py; model/license: see core/tts/ and the library's own LICENSE). Every line passed
+  core/tts/asr_check.py (faster-whisper, lang=en).
+
+Music & sound effects: 100% original, procedurally synthesised in audio.py (numpy/scipy) — plonk
+  sonification, chord pad (saw-wave synthesis), graphite/wood foley — no sampled libraries, no
+  third-party audio, no needle-drops, no stock music. Mixed and mastered to -14 LUFS via
+  core/render/mux.sh.
+
+Visual engine: films/_shared/engine.js, copied unchanged from films/rule-ep1-visa-refusals/engine.js
+  (itself copied unchanged from films/cost-compare/engine.js, Data Storytelling / "dataviz" style
+  per styles/dataviz/STYLE.md). Shared cold-open/end-card: films/_shared/shared.js, copied unchanged
+  from films/rule-ep1-visa-refusals/shared.js (TRA-161).
+
+Terms: the giveaway terms shown on screen (terms.json) are the board-approved default wording,
+  reproduced verbatim, not independently sourced or fact-checked by this film (not a factual-claims
+  reel; no FACTS.md). No additional visa facts, fees or timelines are stated anywhere in this film
+  beyond that given text.
+
+Disclosure: this video is AI-generated/synthetic (end card, on screen). No real person, brand logo,
+  or specific human (board member, counsellor) is depicted or named anywhere in this film.
+
+Not published to Instagram, Facebook or Meta by this process; staged for review only.
