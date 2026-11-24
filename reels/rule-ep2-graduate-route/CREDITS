@@ -1,0 +1,22 @@
+rule-ep2-graduate-route — "The UK Graduate Route change"
+Series: The Rule Nobody Tells You (@elsewhereedu). TRA-161.
+
+Fonts (OFL): Newsreader, Caveat, IBM Plex Mono — https://github.com/google/fonts
+  (copied from films/cost-compare/fonts, already vetted in this repository)
+
+Voice: Kokoro (kokoro-onnx), voice "bf_emma" (British female), offline. Every line passed
+  core/tts/asr_check.py (faster-whisper, lang=en): 0 mismatches.
+
+Music & sound effects: 100% original, procedurally synthesised in audio.py (numpy/scipy) — same
+  instrument palette as Ep 1 — no sampled libraries, no third-party audio. Mastered to -14 LUFS.
+
+Visual engine: films/_shared/engine.js (copied unchanged from films/cost-compare/engine.js). Shared
+  cold-open/end-card: films/_shared/shared.js, identical to Ep 1's copy.
+
+Facts: FACTS.md (gov.uk only; every figure checked 24 Nov 2026). Underlying research originally done
+  for the retired films/graduate-route project (23 Nov 2026), independently re-verified 24 Nov 2026.
+
+Disclosure: this video is AI-generated/synthetic (end card, on screen) and informational only, not
+  legal advice. No real person, brand logo, or specific human (board member, counsellor) is depicted.
+
+Not published anywhere by this process; staged for review only (TRA-161).
