@@ -1,0 +1,19 @@
+[
+ { "id": "V01", "text": "One small mistake can get your UK student visa refused.", "voice": "bf_emma", "speed": 0.9 },
+ { "id": "V02", "text": "Here's what you need to get right.", "voice": "bf_emma", "speed": 0.9 },
+ { "id": "V03", "text": "One. Your CAS number, from your university.", "voice": "bf_emma", "speed": 0.9,
+   "asr": "One, your CAS number from your university." },
+ { "id": "V04", "text": "Two. Your living costs, held twenty-eight days in a row.", "voice": "bf_emma", "speed": 0.9,
+   "asr": "Two, your living costs held 28 days in a row." },
+ { "id": "V05", "text": "From 30 November: 1,570 pounds a month in London. 1,203 outside.", "voice": "bf_emma", "speed": 0.9,
+   "asr": "From 30 November, £1,570 a month in London, 1,203 outside." },
+ { "id": "V06", "text": "Three. The visa fee is 558 pounds, plus 776 a year for healthcare.", "voice": "bf_emma", "speed": 0.9,
+   "asr": "Three, the visa fee is £558 plus 776 a year for healthcare." },
+ { "id": "V07", "text": "Four. Apply up to six months before your course. Decisions take about three weeks.", "voice": "bf_emma", "speed": 0.9,
+   "asr": "Four, apply up to six months before your course. Decisions take about three weeks." },
+ { "id": "V08", "text": "Now, the good part.", "voice": "bf_emma", "speed": 0.9 },
+ { "id": "V09", "text": "Follow us and like this reel. We'll file your student visa, for free.", "voice": "bf_emma", "speed": 0.9,
+   "asr": "Follow us and like this reel. We'll file your student visa for free." },
+ { "id": "V10", "text": "Save this, and follow at elsewhereedu.", "voice": "bf_emma", "speed": 0.9,
+   "asr": "Save this, and follow at Elsewhere EDU." }
+]
